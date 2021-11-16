@@ -1,0 +1,47 @@
+[
+  {
+    "employeeId": 1,
+    "employeeName": "Samuel R",
+    "employeExpertise": "UI",
+    "projectName": "Adidas",
+    "projectStartDate": "October 19, 2021",
+    "projectEndDate": "April 19, 2022",
+    "managerName":"Immanuel Licon"
+  },
+  {
+    "employeeId": 2,
+    "employeeName": "Mark B",
+    "employeExpertise": "UX",
+    "projectName": "Pebble",
+    "projectStartDate": "October 19, 2021",
+    "projectEndDate": "Noveber 1, 2021",
+    "managerName":"Yohan J"
+  },
+  {
+    "employeeId": 3,
+    "employeeName": "Rebeeca James",
+    "employeExpertise": "UX",
+    "projectName": "IBM",
+    "projectStartDate": "October 19, 2021",
+    "projectEndDate": "Noveber 1, 2021",
+    "managerName":"John Y"
+  },
+  {
+    "employeeId": 4,
+    "employeeName": "Elizabeth James",
+    "projectName": "Microsoft",
+    "employeExpertise": "UX",
+    "projectStartDate": "October 19, 2021",
+    "projectEndDate": "Noveber 1, 2021",
+    "managerName":"John LIvingstone"
+  },
+  {
+    "employeeId": 5,
+    "employeeName": "Hannah Samuel",
+    "projectName": "Microsoft",
+    "employeExpertise": "UX",
+    "projectStartDate": "October 19, 2021",
+    "projectEndDate": "Noveber 1, 2021",
+    "managerName":"Charles vesly"
+  }
+]
